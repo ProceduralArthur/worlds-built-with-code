@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# models and Blender files are never committed
+*.blend
+*.blend1
+*.glb
+*.gltf
+*.fbx
+*.obj
+# local outputs
+renders/
+frames/
+*.png.tmp
