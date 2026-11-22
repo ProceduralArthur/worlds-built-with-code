@@ -18,4 +18,4 @@ command line. The scripts run headless (`blender -b ... --python ...`) on the CP
 ## License
 
 Code: [MIT](LICENSE). Images, renders and the Ilhinha character are **not** under the MIT license
-(all rights reserved); see [LICENSE](LICENSE).
+(all rights reserved); see [NOTICE.md](NOTICE.md).
