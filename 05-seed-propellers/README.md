@@ -2,6 +2,8 @@
 
 Video: https://youtu.be/WJsC8znyZXU (Procedural Arthur, episode on Seed the scrap drone)
 
+![Seed's rig: propellers spinning on their own axes](images/seed_rig.gif)
+
 Seed, the channel's scrap drone, started as an AI drawing; an image-to-3D tool turned it into a model that looked great
 from the front. But it was a statue: 1,902,608 triangles in one single mesh, and every propeller was one fused lump
 (ring, blades and hub in one surface, the ring tilted up to 16 degrees away from the blades). Spin that, and everything
